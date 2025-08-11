@@ -83,5 +83,3 @@ python video_downloader.py
 This tool is for **personal use only**.
 Do **not** use it to download copyrighted content you do not own or have permission for.
 The author is not responsible for any misuse of this software.
-
-Do you also want me to make a **`requirements.txt`** so people can just install dependencies in one command? That will make the repo plug-and-play.
