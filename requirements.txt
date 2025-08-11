@@ -1,0 +1,7 @@
+yt-dlp
+requests
+ffmpeg-python
+pillow
+tkintertable ; only if using Tkinter UI (optional, built-in tkinter does not need to be installed via pip)
+colorama
+rich
