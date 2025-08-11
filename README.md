@@ -74,7 +74,7 @@ python video_downloader.py
 
 ## 📷 Screenshots
 
-*(Add screenshots here once you have them)*
+![Main window screenshot](image.png)
 
 ---
 
