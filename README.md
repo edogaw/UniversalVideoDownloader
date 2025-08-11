@@ -21,7 +21,7 @@ Paste a video link, choose your save folder, pick a resolution, and download —
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Universal-Video-Downloader.git
+git clone https://github.com/edogaw/Universal-Video-Downloader.git
 cd Universal-Video-Downloader
 ````
 
